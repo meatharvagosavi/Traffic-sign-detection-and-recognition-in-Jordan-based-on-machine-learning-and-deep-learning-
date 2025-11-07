@@ -1,2 +1,10 @@
 # Traffic-sign-detection-and-recognition-in-Jordan-based-on-machine-learning-and-deep-learning-
 Importance of Traffic Sign Recognition (TSR)  Challenges in detection (lighting, occlusion, etc.)  Aim: Implement hybrid ResNet-50 + SVM model for Jordanian traffic signs.
+torch>=1.13
+torchvision>=0.14
+scikit-learn>=1.0
+numpy
+pillow
+tqdm
+joblib
+matplotlib
