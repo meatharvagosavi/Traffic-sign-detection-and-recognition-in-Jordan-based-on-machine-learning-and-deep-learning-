@@ -1,0 +1,1 @@
+M.S. Obeidat, A.H. Alomari, A.S. Jaradat, M.M. Barhoush, "Traffic sign detection and recognition in Jordan based on machine learning and deep learning", Egyptian Informatics Journal, 2025. DOI: 10.1016/j.eij.2025.100761
